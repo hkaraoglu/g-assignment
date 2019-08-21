@@ -1,4 +1,8 @@
 {
-	"comment": "Use this file for common texts",
-	"example": "Example text"
+	"success"   : "Success",
+	"error_mincount_lower_than_maxcount" : "Error: minCount value must be lower than maxCount value!",
+	"error_invalid_parameter_value" : "Error: Invalid parameter value (%s)",
+	"error_4XX" : "Error: Bad access!",
+	"error_404" : "Error: Not found!",
+	"error_5XX" : "Error: Unexpected error was found!"
 }
